@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour hassounds="0" apprev="21010" start="node1" appversion="7.1.11">
+  <panorama id="node1">
+    <input leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2976" levelbias="0.400" levelingpitch="0" height="2976" leveltilesize="510" overlap="1" levelbiashidpi="1.000" levelingroll="0">
+      <level width="2976" predecode="0" height="2976" preload="0"/>
+      <level width="1488" predecode="0" height="1488" preload="0"/>
+      <level width="744" predecode="0" height="744" preload="0"/>
+      <level width="372" predecode="1" height="372" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start tilt="-0.173722" fov="120" projection="4" pan="-24.3348"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" fov="140" fovfisheye="360" pan="360" scaletofit="1" fovstereographic="330"/>
+    </view>
+    <userdata copyright="" datetime="" latitude="" comment="" heading="0" longitude="" info="" customnodeid="" title="Terrasse lounge" author="" nodeid="node1" description="" source="" tags="Insta360"/>
+    <hotspots smoothmovement="0" width="180" wordwrap="1" height="20">
+      <label width="180" backgroundalpha="1" bordercolor="0x000000" height="20" borderalpha="1" borderradius="1" border="1" backgroundcolor="0xffffff" wordwrap="1" textcolor="0x000000" background="1" textalpha="1" enabled="1"/>
+      <polystyle backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1" mode="0"/>
+      <hotspot tilt="-15.35" url="{node2}" pan="-85.8" title="Pool right near" target="" description="" id="Point02" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" zoomout="0" zoomoutpause="1" zoomspeed="2" softedge="0" zoomafteroutfov="40" zoomin="0" type="crossdissolve" zoomafterinfov="140" blendtime="1" blendcolor="0x000000" enabled="1" delay="none"/>
+    <animation useinautorotation="0" clipsrandom="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedwheel="0" speedwheel="1" simulatemass="1" rubberband="0" zoomcentercursor="1" lockedkeyboardzoom="0" invertwheel="0" contextfullscreen="1" contextvr="1" hideabout="0" contextprojections="0" lockedkeyboard="0" sensitivity="8" lockedmouse="0" dblclickfullscreen="0" invertcontrol="1"/>
+  </panorama>
+  <panorama id="node2">
+    <input leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2976" levelbias="0.400" levelingpitch="0" height="2976" leveltilesize="510" overlap="1" levelbiashidpi="1.000" levelingroll="0">
+      <level width="2976" predecode="0" height="2976" preload="0"/>
+      <level width="1488" predecode="0" height="1488" preload="0"/>
+      <level width="744" predecode="0" height="744" preload="0"/>
+      <level width="372" predecode="1" height="372" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start tilt="-4.37" fov="113.88" projection="4" pan="28.74"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" fov="140" fovfisheye="360" pan="360" scaletofit="1" fovstereographic="330"/>
+    </view>
+    <userdata copyright="" datetime="" latitude="" comment="" heading="0" longitude="" info="" customnodeid="" title="Pool right near" author="" nodeid="node2" description="" source="" tags="Insta360"/>
+    <hotspots smoothmovement="0" width="180" wordwrap="1" height="20">
+      <label width="180" backgroundalpha="1" bordercolor="0x000000" height="20" borderalpha="1" borderradius="1" border="1" backgroundcolor="0xffffff" wordwrap="1" textcolor="0x000000" background="1" textalpha="1" enabled="1"/>
+      <polystyle backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1" mode="0"/>
+      <hotspot tilt="-9.73" url="{node3}" pan="-341.06" title="Pool wall" target="" description="" id="Point02" skinid="ht_node"/>
+      <hotspot tilt="-8.4" url="{node1}" pan="-244.69" title="Terrasse lounge" target="" description="" id="Point01" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" zoomout="0" zoomoutpause="1" zoomspeed="2" softedge="0" zoomafteroutfov="40" zoomin="0" type="crossdissolve" zoomafterinfov="140" blendtime="1" blendcolor="0x000000" enabled="1" delay="none"/>
+    <animation useinautorotation="0" clipsrandom="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedwheel="0" speedwheel="1" simulatemass="1" rubberband="0" zoomcentercursor="1" lockedkeyboardzoom="0" invertwheel="0" contextfullscreen="1" contextvr="1" hideabout="0" contextprojections="0" lockedkeyboard="0" sensitivity="8" lockedmouse="0" dblclickfullscreen="0" invertcontrol="1"/>
+  </panorama>
+  <panorama id="node3">
+    <input leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2976" levelbias="0.400" levelingpitch="0" height="2976" leveltilesize="510" overlap="1" levelbiashidpi="1.000" levelingroll="0">
+      <level width="2976" predecode="0" height="2976" preload="0"/>
+      <level width="1488" predecode="0" height="1488" preload="0"/>
+      <level width="744" predecode="0" height="744" preload="0"/>
+      <level width="372" predecode="1" height="372" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start tilt="-3.2" fov="100" projection="4" pan="-45.38"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" fov="140" fovfisheye="360" pan="360" scaletofit="1" fovstereographic="330"/>
+    </view>
+    <userdata copyright="" datetime="" latitude="" comment="" heading="0" longitude="" info="" customnodeid="" title="Pool wall" author="" nodeid="node3" description="" source="" tags="Insta360"/>
+    <hotspots smoothmovement="0" width="180" wordwrap="1" height="20">
+      <label width="180" backgroundalpha="1" bordercolor="0x000000" height="20" borderalpha="1" borderradius="1" border="1" backgroundcolor="0xffffff" wordwrap="1" textcolor="0x000000" background="1" textalpha="1" enabled="1"/>
+      <polystyle backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1" mode="0"/>
+      <hotspot tilt="-6.01" url="{node4}" pan="-117.42" title="stairs pooltec" target="" description="" id="Point02" skinid="ht_node"/>
+      <hotspot tilt="-3.2" url="{node1}" pan="-45.07" title="Terrasse lounge" target="" description="" id="Point01" skinid="ht_node"/>
+      <hotspot tilt="-5.52" url="{node2}" pan="-16.11" title="Pool right near" target="" description="" id="Point03" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" zoomout="0" zoomoutpause="1" zoomspeed="2" softedge="0" zoomafteroutfov="40" zoomin="0" type="crossdissolve" zoomafterinfov="140" blendtime="1" blendcolor="0x000000" enabled="1" delay="none"/>
+    <animation useinautorotation="0" clipsrandom="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedwheel="0" speedwheel="1" simulatemass="1" rubberband="0" zoomcentercursor="1" lockedkeyboardzoom="0" invertwheel="0" contextfullscreen="1" contextvr="1" hideabout="0" contextprojections="0" lockedkeyboard="0" sensitivity="8" lockedmouse="0" dblclickfullscreen="0" invertcontrol="1"/>
+  </panorama>
+  <panorama id="node4">
+    <input leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2976" levelbias="0.400" levelingpitch="0" height="2976" leveltilesize="510" overlap="1" levelbiashidpi="1.000" levelingroll="0">
+      <level width="2976" predecode="0" height="2976" preload="0"/>
+      <level width="1488" predecode="0" height="1488" preload="0"/>
+      <level width="744" predecode="0" height="744" preload="0"/>
+      <level width="372" predecode="1" height="372" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start tilt="-14.83" fov="100" projection="4" pan="-1.31"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" fov="140" fovfisheye="360" pan="360" scaletofit="1" fovstereographic="330"/>
+    </view>
+    <userdata copyright="" datetime="" latitude="" comment="" heading="0" longitude="" info="" customnodeid="" title="stairs pooltec" author="" nodeid="node4" description="" source="" tags="Insta360"/>
+    <hotspots smoothmovement="0" width="180" wordwrap="1" height="20">
+      <label width="180" backgroundalpha="1" bordercolor="0x000000" height="20" borderalpha="1" borderradius="1" border="1" backgroundcolor="0xffffff" wordwrap="1" textcolor="0x000000" background="1" textalpha="1" enabled="1"/>
+      <polystyle backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1" mode="0"/>
+      <hotspot tilt="-8.72" url="{node3}" pan="-85.02" title="Pool wall" target="" description="" id="Point01" skinid="ht_node"/>
+      <hotspot tilt="-4.05" url="{node2}" pan="-120.45" title="Pool right near" target="" description="" id="Point03" skinid="ht_node"/>
+      <hotspot tilt="-3.92" url="{node1}" pan="-154.35" title="Terrasse lounge" target="" description="" id="Point04" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" zoomout="0" zoomoutpause="1" zoomspeed="2" softedge="0" zoomafteroutfov="40" zoomin="0" type="crossdissolve" zoomafterinfov="140" blendtime="1" blendcolor="0x000000" enabled="1" delay="none"/>
+    <animation useinautorotation="0" clipsrandom="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedwheel="0" speedwheel="1" simulatemass="1" rubberband="0" zoomcentercursor="1" lockedkeyboardzoom="0" invertwheel="0" contextfullscreen="1" contextvr="1" hideabout="0" contextprojections="0" lockedkeyboard="0" sensitivity="8" lockedmouse="0" dblclickfullscreen="0" invertcontrol="1"/>
+  </panorama>
+  <masternode>
+    <userdata comment="" title="Home" author="Manou PEIFFER" copyright="Manou PEIFFER" tags="" description=""/>
+    <animationsequences>
+      <sequence title="Animation01"/>
+    </animationsequences>
+  </masternode>
+</tour>
